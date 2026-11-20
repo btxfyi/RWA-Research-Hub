@@ -15,6 +15,11 @@ This repository aims to explain those moving parts in clear language, document u
 - **Oracles and proof** — how external data, attestations, and reserve information can be brought on-chain.
 - **Case studies** — structured research into protocols, products, and tokenized asset models.
 - **Resources** — primary documentation, regulatory materials, data platforms, and research references.
+- **Protocol case studies** — product-level analysis of Ondo OUSG and Centrifuge infrastructure.
+- **RWA data dashboard** — metric definitions, a protocol watchlist and a reproducible data schema.
+- **Protocol comparison** — side-by-side analysis of fund, infrastructure and credit models.
+- **Smart-contract research** — a practical checklist for proxies, roles, upgrades, oracles and token controls.
+- **Monthly reports** — dated ecosystem research snapshots with source links.
 
 ## Start here
 
