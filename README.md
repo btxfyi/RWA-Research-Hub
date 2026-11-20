@@ -23,6 +23,10 @@ This repository aims to explain those moving parts in clear language, document u
 3. [Oracles and proof](docs/oracles-and-proof.md)
 4. [Case study template](case-studies/README.md)
 5. [Research resources](resources/README.md)
+6. [Due diligence framework](docs/due-diligence-framework.md)
+7. [RWA asset-class map](docs/asset-class-map.md)
+8. [Glossary](docs/glossary.md)
+
 
 ## A simplified view of tokenization
 
