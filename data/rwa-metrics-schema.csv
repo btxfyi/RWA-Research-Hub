@@ -1,0 +1,2 @@
+snapshot_date,entity_name,entity_type,asset_class,chain,contract_address,metric_name,metric_value,currency,metric_definition,source_name,source_url,retrieved_at,confidence,coverage_notes
+2026-11-20,Ondo OUSG,Product,US government securities,Ethereum,0x1b19c19393e2d034d8ff31ff34c81252fcbbee92,contract_reference,,,,Etherscan,https://etherscan.io/token/0x1b19c19393e2d034d8ff31ff34c81252fcbbee92,2026-11-20,secondary,Verify address against issuer before use
