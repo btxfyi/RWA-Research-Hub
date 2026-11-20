@@ -1,0 +1,5 @@
+protocol,product_or_focus,asset_class,model,networks,primary_source,research_priority,notes
+Ondo Finance,OUSG,US government securities,Tokenized fund interest,Ethereum Polygon Solana XRPL,https://ondo.finance/ousg,High,Verify legal rights eligibility holdings fees redemption and contracts
+Centrifuge,Tokenized fund infrastructure,Multiple,Pool and share-class infrastructure,Multichain,https://developer.centrifuge.io/,High,Analyze each pool separately; protocol architecture is not a product risk rating
+Maple Finance,syrupUSDC,Institutional credit,Tokenized lending-pool share,Check current product docs,https://maple.finance/transparency/products/syrupusdc,High,Monitor borrower credit collateral concentration liquidation and withdrawals
+BlackRock,BUIDL,US dollar institutional liquidity fund,Tokenized fund share,Verify current distribution networks,https://www.blackrock.com/,Medium,Use official fund documents and transfer-agent information
